@@ -6,6 +6,7 @@ LENDING CLUB
 * [General Info]
 * [Technologies Used]
 * [Conclusions]
+* [DRIVING FACTORS]
 * [Contributers]
 
 
@@ -44,6 +45,20 @@ We are using the loan.csv file and data_dictionary to understand what each colum
 7. Applicants who have take loans at much higher interest rate more like likely to be a defaulter.
 8. Applicants having lower income range and took loans for debt consolidations.
 9. Higher the  revolving utilization rate more chances of getting default.
+10. We have calculated the proportion of each loan purpose which are marked as Charged Off it seems that we got high proportion for small business.
+11. When comparing the loan status vs charged off proportions there is observed a high chance of being charged off for 36 months also high chance for fully paid .
+
+DRIVING FACTORS:
+1. Interest rate
+2. Purpose
+3. Grade
+4. revol_util
+5. DTI (Debt to income ratio)
+6. charged off proportions for each loan purpose
+7. terms
+
+
+
 
 
 
